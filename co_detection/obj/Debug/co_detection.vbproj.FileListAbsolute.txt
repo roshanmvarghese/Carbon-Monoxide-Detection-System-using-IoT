@@ -1,0 +1,8 @@
+C:\Internship\VB\co_detection\co_detection\bin\co_detection.dll
+C:\Internship\VB\co_detection\co_detection\bin\co_detection.pdb
+C:\Internship\VB\co_detection\co_detection\bin\co_detection.xml
+C:\Internship\VB\co_detection\co_detection\obj\Debug\co_detection.Resources.resources
+C:\Internship\VB\co_detection\co_detection\obj\Debug\co_detection.vbproj.GenerateResource.Cache
+C:\Internship\VB\co_detection\co_detection\obj\Debug\co_detection.dll
+C:\Internship\VB\co_detection\co_detection\obj\Debug\co_detection.xml
+C:\Internship\VB\co_detection\co_detection\obj\Debug\co_detection.pdb
