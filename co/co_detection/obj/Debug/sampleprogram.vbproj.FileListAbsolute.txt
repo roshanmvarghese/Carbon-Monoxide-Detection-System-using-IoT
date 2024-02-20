@@ -1,0 +1,8 @@
+C:\Internship\VB\sampleprogram\sampleprogram\bin\sampleprogram.dll
+C:\Internship\VB\sampleprogram\sampleprogram\bin\sampleprogram.pdb
+C:\Internship\VB\sampleprogram\sampleprogram\bin\sampleprogram.xml
+C:\Internship\VB\sampleprogram\sampleprogram\obj\Debug\sampleprogram.Resources.resources
+C:\Internship\VB\sampleprogram\sampleprogram\obj\Debug\sampleprogram.vbproj.GenerateResource.Cache
+C:\Internship\VB\sampleprogram\sampleprogram\obj\Debug\sampleprogram.dll
+C:\Internship\VB\sampleprogram\sampleprogram\obj\Debug\sampleprogram.xml
+C:\Internship\VB\sampleprogram\sampleprogram\obj\Debug\sampleprogram.pdb
